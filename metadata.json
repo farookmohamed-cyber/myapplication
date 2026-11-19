@@ -1,0 +1,6 @@
+{
+  "name": "Vesper.ai",
+  "description": "Operational AI Infrastructure — Train AI agents on your workflows in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
